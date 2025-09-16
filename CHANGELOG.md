@@ -1,0 +1,12 @@
+# Changelog
+
+### [0.1.0] - 2025-09-16
+
+#### Added:
+- minimal homepage (intentionally bare)
+- projects page; short summary, linking to github
+- photos page; highlight + moment
+- music page; sections for published work & bass covers
+
+#### Notes:
+-  **initial commit** ; baseline for future changes
