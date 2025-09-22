@@ -58,3 +58,47 @@ img {
     border-bottom: 1px solid black;
     border-bottom-width: 50%;
 }
+
+.year {
+    text-align: center;
+    margin: 2rem auto;
+}
+
+.date {
+    text-align: center;
+    max-width: 75%;
+    margin: 1rem auto;
+    padding-bottom: 2.5rem;
+    border-top: 1px solid black;
+    border-top-width: 50%;
+}
+
+.linktree {
+    margin-left: 1rem;
+    font-style: oblique;
+}
+
+.linktree-title {
+    font-style: oblique;
+}
+
+.happening-now {
+    margin-left: 1rem;
+    font-style: oblique;
+}
+
+.happening-now-title {
+    font-style: oblique;
+}
+
+.song-title {
+    font-style: oblique;
+}
+
+.song-lyric {
+    font-style: oblique;
+}
+
+.homepage {
+    margin-left: 2rem auto;
+}
