@@ -1,5 +1,13 @@
 # Changelog
 
+### [0.1.1] - 2025-09-22
+
+#### Added:
+- rotated photography portfolio
+
+#### Notes:
+- it's my **birthday** :o
+
 ### [0.1.0] - 2025-09-16
 
 #### Added:
