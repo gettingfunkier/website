@@ -8,6 +8,7 @@ A minimal static site built with HTML & CSS to showcase my coding, photography, 
 - **coding** . summaries of my coding projects (linking to github)
 - **photography** . highlight + moment sections
 - **music** . published work & bass covers
+- **journal** . space to log my thoughts and achievements
 
 ### 🚧 | Roadmap
 - gallery section for photos page

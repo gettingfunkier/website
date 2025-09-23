@@ -1,5 +1,13 @@
 # Changelog
 
+### [0.2.1] - 2025-09-23
+
+#### Added:
+- journal page to README.md (forgot about it)
+
+#### Notes:
+- it's no longer my birthday :/
+
 ### [0.2.0] - 2025-09-22
 
 #### Added:
