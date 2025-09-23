@@ -1,5 +1,19 @@
 # Changelog
 
+### [0.3.0] - 2025-09-23
+
+#### Added:
+- about page:
+    . portrait
+    . studying
+    . interests
+    . link-tree (moved from homepage)
+    . contact
+- homepage moto (perfection)
+
+#### Notes:
+- James Jamerson used one finger
+
 ### [0.2.1] - 2025-09-23
 
 #### Added:

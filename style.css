@@ -22,7 +22,7 @@ img {
 
 .feature-section {
     display: grid;
-    grid-template-columns: 1.05fr 1fr;
+    grid-template-columns: 1.1fr 1fr;
     gap: 1.5rem;
     align-items: start;
     margin-bottom: 2rem;
@@ -101,4 +101,56 @@ img {
 
 .homepage {
     margin-left: 2rem auto;
+}
+
+.bio {
+    font-style: oblique
+}
+
+.about-me {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.bio {
+    font-style: oblique;
+}
+
+.portrait {
+    border-right: 1px solid black;
+}
+.portrait img {
+    width: 95%;
+    height: auto;
+    display: block;
+    border-radius: 4px;
+}
+
+.studies {
+    margin-left: 1rem;
+    font-style: oblique;
+}
+
+.interests {
+    margin-left: 1rem;
+    font-style: oblique;
+}
+
+.contact {
+    margin-left: 1rem;
+    font-style: oblique;
+}
+
+.moto {
+    font-style: oblique;
+    margin-bottom: 2rem;
+}
+
+.date {
+    font-style: oblique;
 }
