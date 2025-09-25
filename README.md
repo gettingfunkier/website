@@ -1,7 +1,6 @@
 # JHamilton . website
 
-This is the source for my personal website!
-A minimal static site built with HTML & CSS to showcase my coding, photography, and music.
+Source code for my `{personal;minimal;static}` site built with HTML & CSS
 
 ### 📄 | Pages
 - **home** . moto + "happening now"
