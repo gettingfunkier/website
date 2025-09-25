@@ -1,5 +1,13 @@
 # Changelog
 
+### [0.3.1] - 2025-09-25
+
+#### Added:
+- gitignore WebStorm files
+
+#### Notes:
+- banc de poissons
+
 ### [0.3.0] - 2025-09-23
 
 #### Added:
