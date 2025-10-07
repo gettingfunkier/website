@@ -1,5 +1,13 @@
 # Changelog
 
+### [0.3.2] - 2025-10-07
+
+#### Added:
+- changed font to JetBrains Mono (might change back)
+
+#### Notes:
+- new song of the week (forgot to update it)
+
 ### [0.3.1] - 2025-09-25
 
 #### Added:
