@@ -20,6 +20,77 @@ img {
     display: block;
 }
 
+/*  ----  index.html  ----  */
+
+.homepage {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    font-style: oblique;
+}
+
+.moto {
+    font-style: oblique;
+}
+
+/*  ----  about.html  ----  */
+
+.about-page {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    font-style: oblique;
+}
+
+.portrait-top img {
+    width: 35%;
+    border-radius: 100%;
+}
+
+/*  ----  journal.html  ----  */
+
+.journal-page {
+    text-align: center;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    margin-top: 3rem;  
+    margin-bottom: 3rem; 
+}
+
+/*  ----  coding.html  ----  */
+
+.coding-page {
+    text-align: center;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.project {
+    text-align: center;
+    padding-bottom: 2.5rem;
+    border-bottom: 1px solid black;
+    border-bottom-width: 50%;
+}
+
+/*  ----  photography.html  ----  */
+
+.photography-page {
+    margin-left: 10rem;
+    margin-right: 10rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
 .feature-section {
     display: grid;
     grid-template-columns: 1.1fr 1fr;
@@ -29,8 +100,7 @@ img {
 }
 
 .highlight img {
-    width: 100%;
-    height: auto;
+    width: 50;
     display: block;
     /*border-radius: 8px;*/
 }
@@ -41,116 +111,22 @@ img {
     gap: 0.25rem;
 }
 
-.project {
+/*  ----  music.html  ----  */
+
+.music-page {
     text-align: center;
-    max-width: 50%;
-    margin: 2rem auto;
-    padding-bottom: 2.5rem;
-    border-bottom: 1px solid black;
-    border-bottom-width: 50%;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
 }
 
 .music-section {
-    text-align: center;
-    max-width: 50%;
-    margin: 2rem auto;
     padding-bottom: 2.5rem;
     border-bottom: 1px solid black;
     border-bottom-width: 50%;
 }
 
-.year {
-    text-align: center;
-    margin: 2rem auto;
-}
-
-.date {
-    text-align: center;
-    max-width: 75%;
-    margin: 1rem auto;
-    padding-bottom: 2.5rem;
-    border-top: 1px solid black;
-    border-top-width: 50%;
-}
-
-.linktree {
-    margin-left: 1rem;
-    font-style: oblique;
-}
-
-.linktree-title {
-    font-style: oblique;
-}
-
-.happening-now {
-    margin-left: 1rem;
-    font-style: oblique;
-}
-
-.happening-now-title {
-    font-style: oblique;
-}
-
 .song-title {
-    font-style: oblique;
-}
-
-.song-lyric {
-    font-style: oblique;
-}
-
-.homepage {
-    margin-left: 2rem auto;
-}
-
-.bio {
-    font-style: oblique
-}
-
-.about-me {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 1.5rem;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    margin-left: 1rem;
-    margin-right: 1rem;
-}
-
-.bio {
-    font-style: oblique;
-}
-
-.portrait {
-    border-right: 1px solid black;
-}
-.portrait img {
-    width: 95%;
-    height: auto;
-    display: block;
-    border-radius: 4px;
-}
-
-.studies {
-    margin-left: 1rem;
-    font-style: oblique;
-}
-
-.interests {
-    margin-left: 1rem;
-    font-style: oblique;
-}
-
-.contact {
-    margin-left: 1rem;
-    font-style: oblique;
-}
-
-.moto {
-    font-style: oblique;
-    margin-bottom: 2rem;
-}
-
-.date {
     font-style: oblique;
 }

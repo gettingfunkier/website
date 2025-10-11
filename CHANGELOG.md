@@ -1,5 +1,19 @@
 # Changelog
 
+### [0.4.0] - 2025-10-11
+
+#### Added:
+- redesigned website layout for:
+    . home.html
+    . about.html
+    . journal.html
+- uniform margins across all pages
+- clean CSS and html files
+- added latest updates section to homepage
+
+#### Notes:
+- first version that feels polished to me <3
+
 ### [0.3.2] - 2025-10-07
 
 #### Added:
