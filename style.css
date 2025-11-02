@@ -26,10 +26,10 @@ img {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 20px;
-    margin-left: 10rem;
-    margin-right: 10rem;
-    margin-top: 3rem;
-    margin-bottom: 3rem;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    margin-top: 3vw;
+    margin-bottom: 3vw;
     font-style: oblique;
 }
 
@@ -43,10 +43,10 @@ img {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 20px;
-    margin-left: 10rem;
-    margin-right: 10rem;
-    margin-top: 3rem;
-    margin-bottom: 3rem;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    margin-top: 3vw;
+    margin-bottom: 3vw;
     font-style: oblique;
 }
 
@@ -59,20 +59,20 @@ img {
 
 .journal-page {
     text-align: center;
-    margin-left: 10rem;
-    margin-right: 10rem;
-    margin-top: 3rem;  
-    margin-bottom: 3rem; 
+    margin-left: 10vw;
+    margin-right: 10vw;
+    margin-top: 3vw;  
+    margin-bottom: 3vw; 
 }
 
 /*  ----  coding.html  ----  */
 
 .coding-page {
     text-align: center;
-    margin-left: 10rem;
-    margin-right: 10rem;
-    margin-top: 3rem;
-    margin-bottom: 3rem;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    margin-top: 3vw;
+    margin-bottom: 3vw;
 }
 
 .project {
@@ -85,10 +85,10 @@ img {
 /*  ----  photography.html  ----  */
 
 .photography-page {
-    margin-left: 10rem;
-    margin-right: 10rem;
-    margin-top: 3rem;
-    margin-bottom: 3rem;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    margin-top: 3vw;
+    margin-bottom: 3vw;
 }
 
 .feature-section {
@@ -115,10 +115,10 @@ img {
 
 .music-page {
     text-align: center;
-    margin-left: 10rem;
-    margin-right: 10rem;
-    margin-top: 3rem;
-    margin-bottom: 3rem;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    margin-top: 3vw;
+    margin-bottom: 3vw;
 }
 
 .music-section {
@@ -129,4 +129,9 @@ img {
 
 .song-title {
     font-style: oblique;
+}
+
+.sotw-footer {
+    font-size: 0.9rem;
+    font-style: italic;
 }

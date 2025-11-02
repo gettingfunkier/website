@@ -1,5 +1,15 @@
 # Changelog
 
+### [0.4.1] - 2025-11-02
+
+#### Added:
+- new project: mini stardew valley
+- layout margins adapts to different resolutions
+- changed song of the week (it's personal)
+
+#### Notes:
+- first commit after a long and painful emotional rollercoaster. hoping to get the passion back <3
+
 ### [0.4.0] - 2025-10-11
 
 #### Added:
