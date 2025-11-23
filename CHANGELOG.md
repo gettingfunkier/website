@@ -1,5 +1,14 @@
 # Changelog
 
+### [0.4.2] - 2025-11-23
+
+#### Added:
+- demo tracks to music page
+- changed song of the week
+
+#### Notes:
+- first commit after a long and painful emotional rollercoaster. hoping to get the passion back <3
+
 ### [0.4.1] - 2025-11-02
 
 #### Added:
