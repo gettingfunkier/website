@@ -1,5 +1,13 @@
 # Changelog
 
+### [0.4.3] - 2026-01-25
+
+#### Added:
+- dark mode
+
+#### Notes:
+- hello :D
+
 ### [0.4.2] - 2025-11-23
 
 #### Added:

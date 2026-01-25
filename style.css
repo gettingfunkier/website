@@ -1,6 +1,7 @@
 h1 {
     font-family: "JetBrains Mono";
-    font-weight: 450
+    font-weight: 450;
+    background-color: #1a1919; 
 }
 
 nav {
@@ -11,7 +12,9 @@ nav {
 
 body {
     font-family: "JetBrains Mono";
-    font-weight: 300
+    font-weight: 300;
+    background-color: #141414;
+    color: #ffffff;
 }
 
 img {
@@ -62,7 +65,7 @@ img {
     margin-left: 10vw;
     margin-right: 10vw;
     margin-top: 3vw;  
-    margin-bottom: 3vw; 
+    margin-bottom: 3vw;
 }
 
 /*  ----  coding.html  ----  */
