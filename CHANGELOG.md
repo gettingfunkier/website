@@ -1,5 +1,15 @@
 # Changelog
 
+### [0.5.X] - 2026-05-08
+
+#### Added:
+- a nuke
+
+#### Notes:
+- kaboom
+- kablow
+- kaboom
+
 ### [0.4.3] - 2026-01-25
 
 #### Added:
