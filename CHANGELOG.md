@@ -1,5 +1,17 @@
 # Changelog
 
+### [0.5.X.1] - 2026-05-28
+
+#### Added:
+- rebuilt index and about pages from scratch
+- new CSS system: reset, column layout, custom palette, link states
+- flexbox layout for about page
+- social icons with SVG
+- about bio
+
+#### Notes:
+- still half-nuked
+
 ### [0.5.X] - 2026-05-08
 
 #### Added:
@@ -25,7 +37,7 @@
 - changed song of the week
 
 #### Notes:
-- first commit after a long and painful emotional rollercoaster. hoping to get the passion back <3
+- bleh
 
 ### [0.4.1] - 2025-11-02
 
