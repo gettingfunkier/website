@@ -53,6 +53,10 @@ h2 {
 h3 {
     font-weight: 500;
     font-size: 1rem;
+    text-align: center;
+
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
 }
 
 p {
@@ -173,7 +177,18 @@ a:active {
 
 /*  ----  journal.html  ----  */
 
+.journal-content {
+    margin-top: 3rem;
+}
 
+.journal-year {
+    text-align: right;
+    font-style: oblique;
+}
+
+.journal-entry {
+    line-height: 2.25;
+}
 
 /*  ----  coding.html  ----  */
 
