@@ -1,5 +1,17 @@
 # Changelog
 
+### [0.5.0] - 2026-06-01
+
+#### Added:
+- rebuilt all pages
+- journal: monthly log format, dev and life categories
+- photography: 2×K portrait grid
+- music: YouTube and SoundCloud embeds
+- simplified README
+
+#### Notes:
+- the nuke paid off :D
+
 ### [0.5.X.2] - 2026-06-01
 
 #### Added:
