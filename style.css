@@ -47,6 +47,7 @@ h2 {
     text-align: center;
     letter-spacing: 0.25rem;
 
+    margin-top: 3rem;
     margin-bottom: 3rem;
 }
 
@@ -81,6 +82,21 @@ hr {
     width: 75%;
     background-color: #ffffff;
     opacity: 0.4;
+}
+
+iframe {
+    width: 75%;
+
+    display: block;
+    margin: 0 auto;
+}
+
+.youtube {
+    aspect-ratio: 16 / 9;
+}
+
+.soundcloud {
+    height: 500px;
 }
 
 /*  ---- hyperlinks  ----  */
