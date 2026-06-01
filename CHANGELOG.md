@@ -1,5 +1,13 @@
 # Changelog
 
+### [0.5.X.2] - 2026-06-01
+
+#### Added:
+- different homepage now style
+
+#### Notes:
+- still half-nuked
+
 ### [0.5.X.1] - 2026-05-28
 
 #### Added:
