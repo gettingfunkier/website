@@ -1,5 +1,13 @@
 # Changelog
 
+### [0.5.1] - 2026-06-12
+
+#### Added:
+- "." separators between journal entries
+
+#### Notes:
+- i'm removing this notes section because it contains absolutely nothing
+
 ### [0.5.0] - 2026-06-01
 
 #### Added:

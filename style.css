@@ -201,10 +201,29 @@ a:active {
 .journal-year {
     text-align: right;
     font-style: oblique;
+    font-weight: 575;
 }
 
 .journal-entry {
-    line-height: 2.25;
+    font-size: 0.9rem;
+    margin-bottom: 3rem;
+}
+
+.journal-entry ul li {
+    margin-bottom: 1.25rem;
+}
+
+.journal-entry img {
+    width: 70%;
+    margin: 0 auto;
+    margin-bottom: 1rem;
+}
+
+.journal-entry ul li + li::before {
+    content: "·";
+    display: block;
+    text-align: center;
+    margin-bottom: 1.25rem;
 }
 
 /*  ----  coding.html  ----  */
