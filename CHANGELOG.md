@@ -1,5 +1,15 @@
 # Changelog
 
+### [0.5.2] - 2026-09-08
+
+#### Added:
+- uniformal headers on most pages
+- album classes in photography
+
+#### Notes:
+- removed version footer from all pages except homepage
+- removed life journal
+
 ### [0.5.1] - 2026-06-12
 
 #### Added:

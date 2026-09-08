@@ -270,6 +270,12 @@ a:active {
     flex: 50%;
 }
 
+.album-title {
+    font-style: oblique;
+    text-align: right;
+    margin-bottom: 1rem;
+}
+
 .column {
     flex: 50%;
 }
