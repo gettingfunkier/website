@@ -3,7 +3,7 @@
 `{ personal · minimal · static }` — built with HTML & CSS
 
 ### pages
-home · about · journal · coding · photography · music
+home · about · coding · photography · music
 
 ### license
 code: MIT — free to fork, reuse, adapt

@@ -285,3 +285,18 @@ a:active {
 .music-content {
     margin-top: 3rem;
 }
+
+/*  ----  bycicle.html  ----  */
+
+.bycicle-content {
+    margin-top: 3rem;
+}
+
+.email-address {
+    font-style: oblique;
+}
+
+.bycicle-photo {
+    margin-top: 3rem;
+    text-align: center;
+}

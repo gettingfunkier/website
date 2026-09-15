@@ -1,5 +1,13 @@
 # Changelog
 
+### [0.5.4] - 2026-09-15
+
+#### Added:
+- hidden bycicle black box page
+
+#### Notes:
+- i want to attach this page to an NFC tag, that I'll stick to my bike
+
 ### [0.5.3] - 2026-09-15
 
 #### Added:
