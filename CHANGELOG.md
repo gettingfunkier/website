@@ -1,5 +1,13 @@
 # Changelog
 
+### [0.5.3] - 2026-09-15
+
+#### Added:
+- nothing :D
+
+#### Notes:
+- removed journal page
+
 ### [0.5.2] - 2026-09-08
 
 #### Added:
