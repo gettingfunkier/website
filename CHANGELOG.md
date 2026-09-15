@@ -1,5 +1,10 @@
 # Changelog
 
+### [0.5.5] - 2026-09-15
+
+#### Added:
+- changed website name to gettingfunkier
+
 ### [0.5.4] - 2026-09-15
 
 #### Added:

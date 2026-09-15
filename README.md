@@ -1,4 +1,4 @@
-# JHamilton . website
+# gettingfunkier . website
 
 `{ personal · minimal · static }` — built with HTML & CSS
 
