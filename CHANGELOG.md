@@ -1,5 +1,11 @@
 # Changelog
 
+### [0.5.6] - 2026-09-16
+
+#### Added:
+- new portrait photo
+- reshaped about page to favour horizontal symmetry
+
 ### [0.5.5] - 2026-09-15
 
 #### Added:
